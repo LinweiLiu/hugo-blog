@@ -1,0 +1,36 @@
+baseURL = "http://linweiliu.github.io/"
+languageCode = "en-us"
+title = "cijliu"
+enableRobotsTXT = true
+PygmentsCodeFences = true
+# Disqus Username
+disqusShortname = "cijliu"
+# Google Analytics UA number
+googleAnalytics = "UA-112818710-1"
+# Copyright of your post
+copyright = "© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce."
+[params]
+author = "cijliu"
+avatar = "/img/avatar.jpg"
+seotitle = "cijliu's blog"
+subtitle = "Free is not free."
+email = "nothingliulw@gmail.com"
+paginate = 10
+
+[[menu.main]]
+  name = "Home"
+  weight = 10
+  identifier = "home"
+  url = "/"
+
+[[menu.main]]
+  name = "Works"
+  weight = 20
+  identifier = "works"
+  url = "https://github.com/linweiliu"
+
+[[menu.main]]
+  name = "Categories"
+  weight = 30
+  identifier = "categories"
+  url = "/categories/"
