@@ -1,9 +1,12 @@
 ---
-title: "Link"
-date: 2018-01-21T17:52:01+08:00
+title: "Links"
+date: "2014-04-09"
 layout: "links"
 menu: "main"
 weight: 40
 ---
+
+Ritchie and his friends.
+
 
 
